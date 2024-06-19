@@ -2,6 +2,8 @@ This is my Final Year Project . I Wrote a ReaSearch Paper on a Maximizing the co
 
 # Sensor Network Optimization Using PSO Algorithm
 
+This research project, published in the International Journal of Innovative Research in Science, Engineering and Technology (IJIRSET), focuses on optimizing sensor placements within a network to achieve maximum coverage and efficient resource utilization. The primary technique employed is the Particle Swarm Optimization (PSO) algorithm, which iteratively adjusts sensor positions based on random initial coordinates and velocity tuning. The goal is to determine the optimal sensor locations and radii to maximize coverage while minimizing overlap and resource waste.
+
 ## Description
 
 This research project focuses on optimizing sensor placements within a network to achieve maximum coverage and efficient resource utilization. The primary technique employed is the Particle Swarm Optimization (PSO) algorithm, which iteratively adjusts sensor positions based on random initial coordinates and velocity tuning. The goal is to determine the optimal sensor locations and radii to maximize coverage while minimizing overlap and resource waste.
